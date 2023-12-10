@@ -1,6 +1,6 @@
 # Profit Loss output:
 
-This repository contains the Jupyter Notebook for profit loss prediction. The prediction model can be found in the [profit_loss.ipynb](https://nbviewer.org/github/MonikkaAnnamalai/profit-loss-prediction/blob/main/profit_loss.ipynb) file.
+This repository contains the Jupyter Notebook for profit loss prediction. The prediction model can be found in the [profit_loss.ipynb](https://nbviewer.org/github/MonikkaAnnamalai/profit-loss-prediction/blob/main/profit_loss.ipynb) file.Some visuals are not directly displayed in the code section of github so use this nbviewer link.
 
 # Profit Loss Prediction
 
